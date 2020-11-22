@@ -6,7 +6,7 @@ function _all(query){
 }
 let songList = [
 	{
-		thumbnail:"Bright_Future.jpg",
+		thumbnail:"https://firebasestorage.googleapis.com/v0/b/manisha-gift.appspot.com/o/Image%2Fbio.jpg?alt=media&token=7a2ea5c0-607f-43de-abbf-3609de4fac00",
 		audio:"https://firebasestorage.googleapis.com/v0/b/manisha-gift.appspot.com/o/%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%A0%20%E0%A4%B8%E0%A4%82%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%A8%20%E0%A4%AD%E0%A4%BE%E0%A4%97%201.2.mp3?alt=media&token=b163087b-83bb-41b2-9949-9bf7ed67b719",
 		songname:" Future",
 		artistname:"Silent Partner"
