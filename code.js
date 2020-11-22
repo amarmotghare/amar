@@ -13,7 +13,7 @@ let songList = [
 	},
 	{
 		thumbnail:"biology.jpg",
-		audio:"Bright_Future.",
+		audio:"Bright_Future.m4a",
 		songname:"Bovi",
 		artistname:"The Grand Affair",
 	},
