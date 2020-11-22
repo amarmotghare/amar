@@ -47,12 +47,12 @@ body {
 	padding: 15px 0px;
 }
 .player .main .details h2 {
-	font-size: 30px;
+	font-size: 50px;
 	color:#eee;
 	margin-bottom: 10px;
 }
 .player .main .details p {
-	font-size: 30px;
+	font-size: 50px;
 	color: #aaa;
 }
 .player .main .controls {
@@ -65,7 +65,7 @@ body {
 	cursor: pointer;
 }
 .player .main .controls i.fa {
-	font-size:30px;
+	font-size:50px;
 	color: #ddd;
 }
 .player .main .controls > div.play-pause-control i.fa-play {
@@ -97,7 +97,7 @@ body {
 }
 .player .player-list .toggle-list i.fa {
 	color: #ccc;
-	font-size: 30px;
+	font-size: 50px;
 	font-weight: 600;
 }
 .player .player-list .toggle-list i.fa-angle-down {
@@ -135,11 +135,11 @@ body {
 }
 .player .list .item .details h2 {
 	color: #eee;
-	font-size: 30px;
+	font-size: 50px;
 }
 .player .list .item .details p {
 	color: #aaa;
-	font-size: 30px;
+	font-size: 50px;
 }
 .player .player-list::-webkit-scrollbar {
 	width: 5px;
