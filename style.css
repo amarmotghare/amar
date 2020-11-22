@@ -23,7 +23,7 @@ body {
 	transition:all 500ms ease-in-out;
 }
 .player .main .thumbnail img {
-	width: 100%; height: 50%;
+	width: 100%; height: 30%;
 }
 .player .main .seekbar {
 	margin-top: -15px;
@@ -44,15 +44,15 @@ body {
 }
 .player .main .details {
 	text-align: center;
-	padding: 15px 0px;
+	padding: 10px 0px;
 }
 .player .main .details h2 {
-	font-size: 50px;
+	font-size: 30px;
 	color:#eee;
-	margin-bottom: 10px;
+	margin-bottom: 5px;
 }
 .player .main .details p {
-	font-size: 50px;
+	font-size: 30px;
 	color: #aaa;
 }
 .player .main .controls {
@@ -65,7 +65,7 @@ body {
 	cursor: pointer;
 }
 .player .main .controls i.fa {
-	font-size:50px;
+	font-size:30px;
 	color: #ddd;
 }
 .player .main .controls > div.play-pause-control i.fa-play {
@@ -97,7 +97,7 @@ body {
 }
 .player .player-list .toggle-list i.fa {
 	color: #ccc;
-	font-size: 50px;
+	font-size: 30px;
 	font-weight: 600;
 }
 .player .player-list .toggle-list i.fa-angle-down {
@@ -110,7 +110,7 @@ body {
 	display: none;
 }
 .player .list {
-	padding: 10px;
+	padding: 5px;
 }
 .player .list .item {
 	display: flex;
@@ -119,8 +119,8 @@ body {
 	cursor: pointer;
 }
 .player .list .item .thumbnail {
-	width: 50px;
-	height: 50px;
+	width: 150px;
+	height: 150px;
 	overflow: hidden;
 }
 .player .list .thumbnail img {
@@ -135,11 +135,11 @@ body {
 }
 .player .list .item .details h2 {
 	color: #eee;
-	font-size: 50px;
+	font-size: 30px;
 }
 .player .list .item .details p {
 	color: #aaa;
-	font-size: 50px;
+	font-size: 30px;
 }
 .player .player-list::-webkit-scrollbar {
 	width: 5px;
